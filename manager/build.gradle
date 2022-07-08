@@ -9,7 +9,7 @@ plugins {
 }
 
 android {
-    compileSdkVersion rootProject.ext.targetSdkVersion
+    compileSdkVersion 33
     defaultConfig {
         applicationId "moe.shizuku.privileged.api"
         minSdkVersion rootProject.ext.minSdkVersion
